@@ -1,4 +1,4 @@
-/*===== MENU SHOW Y HIDDEN =====*/
+/*===== MENU SHOW & HIDDEN =====*/
 const navMenu = document.querySelector(".nav__menu")
 const navToggle = document.querySelector(".nav__toggle")
 const navClose = document.querySelector(".nav__close");
